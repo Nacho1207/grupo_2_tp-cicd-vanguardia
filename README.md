@@ -1,1 +1,1 @@
-# grupo_2_tp-cicd-vanguardia
+# grupo_2_tp-cicd-vanguardia Sale este trabajo práctico de Programación de Vanguardia. git, GitHub y GitHub Actions.
